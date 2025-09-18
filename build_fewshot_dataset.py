@@ -86,5 +86,6 @@ if __name__ == '__main__':
     img_placeholder = "image"
     
     fewshot_data = build_fewshot_dataset(dataset_url, shot, img_placeholder, diffusion_model, seed=42)
+    os.makedirs("./my_datasets/", exist_ok=True)
     torch.save(fewshot_data, "./my_datasets/cifar100_"+ str(shot) +"shot.pt")
     print("Few-shot dataset saved to fewshot_dataset.pt")
