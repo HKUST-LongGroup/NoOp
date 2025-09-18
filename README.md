@@ -2,6 +2,7 @@
 
 **NoOp is a simple yet effective noise optimization method for the Diffusion Classifier.** 
 
+![](teaser.jpg)
 
 > [**Noise Matters: Optimizing Matching Noise for Diffusion Classifiers**](https://arxiv.org/pdf/2508.11330)
 > 
