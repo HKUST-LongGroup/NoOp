@@ -1,6 +1,10 @@
-# NoOp 
-## Noise Matters: Optimizing Matching Noise for Diffusion Classifiers'' (NeurIPS 2025)
+# NoOp (NeurIPS 2025)
+## NoOp is a simple yet effective noise optimization method for the Diffusion Classifier. 
 
+
+[**Noise Matters: Optimizing Matching Noise for Diffusion Classifiers**]([https://arxiv.org/pdf/2408.16266](https://arxiv.org/pdf/2508.11330))
+
+Yanghao Wang, Long Chen  
 
 # Prepare the Execution Environment
 conda env create -f environment.yml
