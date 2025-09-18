@@ -1,4 +1,5 @@
-# NoOp: ``Noise Matters: Optimizing Matching Noise for Diffusion Classifiers'' (NeurIPS 2025)
+# NoOp 
+## Noise Matters: Optimizing Matching Noise for Diffusion Classifiers'' (NeurIPS 2025)
 
 
 # Prepare the Execution Environment
